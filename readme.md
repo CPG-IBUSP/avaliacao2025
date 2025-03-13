@@ -22,11 +22,12 @@ Zoologia
 
 Foram consideradas apenas as fichas das defesas ocorridas nos últimos dois quadriênios (defesas entre 2017 e 2024)
 
-|                 | Bot| Eco| Fis| Gen| Zoo|
-|:----------------|---:|---:|---:|---:|---:|
-|Mestrado         |  72|  63|  59|  62|  62|
-|Doutorado        |  64|  57|  30|  52|  55|
-|Doutorado direto |  12|   1|   4|   7|   4|
+|                 | Bot| Eco| Fis| Gen| Zoo|   IB|
+|:----------------|---:|---:|---:|---:|---:|----:|
+|Mestrado         |  72|  63|  59|  62|  62|  318|
+|Doutorado        |  64|  57|  30|  52|  55|  258|
+|Doutorado direto |  12|   1|   4|   7|   4|   28|
+|Todos cursos     | 148| 121|  93| 121| 121|  604|
  
 No quadriênio, tivemos 40 teses e 35 dissertações defendidas. Destas, 35 teses e 31 dissertações tiveram pelo menos uma ficha de avaliação entregue por membros da banca (fichas preenchidas pelos orientadores não foram incluídas nesta compilação). Foram 188 fichas analisadas (entre uma e quatro por trabalho de conclusão). Os avaliadores foram perguntados sobre 11 quesitos e foram orientados a indicar quais dos quesitos o trabalho satisfazia de maneira muito boa ou excelente. Os quesitos estão indicados abaixo, com o número de avaliações que julgaram o trabalho com muito bom ou excelente:
  
