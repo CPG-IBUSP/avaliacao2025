@@ -51,9 +51,32 @@ No quadriênio, tivemos 325 teses e 255 dissertações defendidas. Destas, 286 t
 - A discussão é sólida e fortemente alicerçada nos resultados obtidos: 1116 avaliações (61,8%)
  - A literatura citada é adequada e atualizada: 1371 avaliações (75,9%)
 
-Os trabalhos de conclusão de curso defendidos no programa foram considerados muito bons ou excelentes nesses quesitos pela maioria dos avaliadores. Consideramos que os trabalhos defendidos tiveram qualidade muito boa e essa avaliação nos permite diagnosticar pontos que podemos contribuir na preparação dos trabalhos. Por exemplo, o quesito que foi considerado muito bom ou excelente pelo menor número de avaliadores (63%) foi a discussão sólida e alicerçada nos resultados obtidos. Isso pode nos ajudar a planejar iniciativas (disciplinas ou instruções) para melhorar a qualidade das futuras teses e dissertações. 
+Os trabalhos de conclusão de curso defendidos no programa foram considerados muito bons ou excelentes nesses quesitos pela maioria dos avaliadores. Consideramos que os trabalhos defendidos tiveram qualidade muito boa e essa avaliação nos permite diagnosticar pontos que podemos contribuir na preparação dos trabalhos. Por exemplo, o quesito que foi considerado muito bom ou excelente pelo menor número de avaliadores (61,8%) foi a discussão sólida e alicerçada nos resultados obtidos. Isso pode nos ajudar a planejar iniciativas (disciplinas ou instruções) para melhorar a qualidade das futuras teses e dissertações. 
  
-Os membros das bancas também foram perguntados sobre o enquadramento das dissertações ou teses em extratos, comparando com as teses já avaliadas por eles. A maioria dos membros das bancas (69,4%) consideraram que o trabalho estava entre os 10% melhores considerando o conjunto de dissertações e teses que já haviam avaliado e orientado, o que mostra a qualidade dos trabalhos defendidos no programa. Outras avaliações consideraram que o trabalho estava entre os 25% melhores (53 avaliações, 28%) ou entre os 50% melhores (55 avaliações, 29%). Onze avaliações (6%) julgaram que o trabalho estava abaixo dos 50% melhores (quatro delas são referentes a um único trabalho reprovado pela banca). 
+A avaliação anônima feita pelos participantes das bancas de defesa, que indicaram a qualidade do trabalho relativa a todos que já orientou ou avaliou, entre quatro classes:
+
+- Abaixo dos 50% melhores que já avaliou/orientou
+- Entre os 50% melhores
+- Entre os 25% melhores
+- Entre os 10% melhores
+
+
+**Tabela 3.** Qualidade relativa do trabalho (o quesito foi avaliado em 1769 fichas)
+|                        | Mestrado| Doutorado| Total| 
+|:-----------------------|--------:|---------:|-----:|
+|Abaixo dos 50% melhores |       40|        52|    92| 
+|Entre os 50% melhores   |      275|       243|   518| 
+|Entre os 25% melhores   |      247|       249|   496| 
+|Entre os 10% melhores   |      245|       418|   663|
+
+
+
+**Figura 1.** Qualidade relativa - Mestrado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
+
+**Figura 2.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
+
+
+A maioria dos membros das bancas (38%) consideraram que o trabalho estava entre os 10% melhores considerando o conjunto de dissertações e teses que já haviam avaliado e orientado, o que mostra a qualidade dos trabalhos defendidos nos programas do IB. Outras avaliações consideraram que o trabalho estava entre os 25% melhores (496 avaliações, 28%) ou entre os 50% melhores (55 avaliações, 29%). Apenas 92 avaliações (5%) julgaram que o trabalho estava abaixo dos 50% melhores. 
  
 Os avaliadores responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (91 avaliações, 48%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 80 (42%) em periódico de impacto médio e 5 (3%) em periódico de impacto baixo. Apenas seis avaliações (3%) indicavam que havia baixa chance de publicação do trabalho. Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
 
