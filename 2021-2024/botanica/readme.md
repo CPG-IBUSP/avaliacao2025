@@ -123,8 +123,4 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
 
 
-## Outras comparações
-
-### Notas médias por programa
-![notas por programa](images/notasMediaProg.png) 
 
