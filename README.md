@@ -7,7 +7,7 @@
 
 ## Resultados por programa:
 - [Botânica](2021-2024/botanica/readme.md)
-- [Ecologia](ecologia/readme.md)
-- [Fisiologia](fisiologia/readme.md)
-- [Genética](genetica/readme.md)
-- [Zoologia](zoologia/readme.md)
+- [Ecologia](2021-2024/ecologia/readme.md)
+- [Fisiologia](2021-2024/fisiologia/readme.md)
+- [Genética](2021-2024/genetica/readme.md)
+- [Zoologia](2021-2024/zoologia/readme.md)
