@@ -142,10 +142,13 @@ Os avaliadores também responderam sobre possíveis artigos decorrentes da disse
 
 ## Comentários
 
-Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
+Por fim, no campo para comentários, 444 fichas contém observações, a maioria delas elogiosas, destacando a qualidade da tese/dissertação. Todas as observações foram transcritas nos relatórios de avaliação indidual dos programas.
 
 
 ## Outras comparações
 
 ### Notas médias por programa
 ![notas por programa](images/notasMediaProg.png) 
+
+
+
