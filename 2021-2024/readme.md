@@ -26,10 +26,10 @@ Foram consideradas apenas as fichas das defesas ocorridas no último quadriênio
 
 |                 | Bot| Eco| Fis| Gen| Zoo|  IB|
 |:----------------|---:|---:|---:|---:|---:|---:|
-|Mestrado         |  30|  29|  31|  28|  25| 143|
-|Doutorado        |  27|  28|  21|  23|  24| 123|
+|Mestrado         |  31|  30|  31|  28|  25| 143|
+|Doutorado        |  28|  28|  21|  23|  24| 123|
 |Doutorado direto |   4|   0|   2|   3|   1|  10|
-|Todos cursos     |  61|  57|  54|  54|  50| 276|
+|Todos cursos     |  63|  58|  54|  54|  50| 276|
 
 **Tabela 2.** Número de fichas  
 
