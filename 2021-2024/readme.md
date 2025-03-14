@@ -12,11 +12,11 @@ Por iniciativa da Comissão de Pós-Graduação do Instituto de Biociências da 
 
 Serão apresentados aqui os resultados gerais do IB. Para os resultados individualizados de cada programa acessar:
 
-Botânica
-Ecologia
-Fisiologia
-Genética
-Zoologia 
+Botânica  
+Ecologia  
+Fisiologia  
+Genética  
+Zoologia   
 
 ## Tamanho da amostra
 
@@ -98,17 +98,32 @@ Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 1
 
 ## Impacto potencial
  
-Os avaliadores também responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (91 avaliações, 48%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 80 (42%) em periódico de impacto médio e 5 (3%) em periódico de impacto baixo. Apenas seis avaliações (3%) indicavam que havia baixa chance de publicação do trabalho. 
+Os avaliadores também responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (380 avaliações, 59%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 228 (35%) em periódico de impacto médio e 27 (4%) em periódico de impacto baixo. Apenas 11 avaliações (2%) indicavam que havia baixa chance de publicação do trabalho. 
 
+**Tabela 4.** Impacto potencial do trabalho (o quesito foi avaliado em 646 fichas)
+|           | Mestrado| Doutorado| Sum|
+|:----------|--------:|---------:|---:|
+|nao public |        8|         3|  11|
+|baixo      |       16|        11|  27|
+|medio      |      150|        78| 228|
+|alto       |      143|       237| 380|
+|Sum        |      317|       329| 646|
 
 
 ![plot impacto](images/impacto.png)  
 **Figura 5.** Proporção de teses e dissertações defendidas entre 2021 e 2024, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
 
+![plot impacto por programa](images/impactoProg.png)  
+**Figura 6.** Proporção de teses e dissertações defendidas entre 2021 e 2024 em cada programa, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
 
+
+
+## Comentários
 
 Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
 
+
+## Outras comparações
 
 
 
