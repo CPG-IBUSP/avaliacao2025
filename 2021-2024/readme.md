@@ -24,6 +24,7 @@ Foram consideradas apenas as fichas das defesas ocorridas no último quadriênio
 
 **Tabela 1.** Número de trabalhos com ao menos uma ficha preenchida 
 |                 | Bot| Eco| Fis| Gen| Zoo|  IB|
+
 |:----------------|---:|---:|---:|---:|---:|---:|
 |Mestrado         |  30|  29|  31|  28|  25| 143|
 |Doutorado        |  27|  28|  21|  23|  24| 123|
