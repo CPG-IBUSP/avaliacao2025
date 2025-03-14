@@ -28,6 +28,8 @@ Foram consideradas apenas as fichas das defesas ocorridas no último quadriênio
 ## Indicadores
 
 Os avaliadores foram perguntados sobre 10 quesitos e foram orientados a indicar quais dos quesitos o trabalho satisfazia de maneira muito boa ou excelente. Os quesitos estão indicados abaixo, com o número de avaliações que julgaram o trabalho com muito bom ou excelente:  
+
+**Tabela 3.** Quesitos indicados como muito bom ou excelente
    
 |criterios                                                                          | frequencia| porcentagem|
 |:----------------------------------------------------------------------------------|----------:|-----------:|
@@ -44,7 +46,7 @@ Os avaliadores foram perguntados sobre 10 quesitos e foram orientados a indicar 
 
 
 ## Notas
-Além da análise individual de cada critério, foi realizada também a soma dos aspectos em que a tese/dissertação foi descrita como excelente ou muito boa. As notas de cada tese são as somas do número de indicações por tese/dissertação. Dentre as fichas avaliadas, a média calculada para o curso de Mestrado foi 7.3. (mediana = 8) Doutorado foi 7,8 (mediana = 9).
+Além da análise individual de cada critério, foi realizada também a soma dos aspectos em que a tese/dissertação foi descrita como excelente ou muito boa. As notas de cada tese são as somas do número de indicações por tese/dissertação. Dentre as fichas avaliadas, a média calculada para o curso de Mestrado foi 7.5. (mediana = 8) Doutorado foi 8,0 (mediana = 9.5).
 
 
 ![notas](images/notas.png)  
@@ -67,14 +69,14 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 - Entre os 10% melhores
 
 
-**Tabela 3.** Qualidade relativa do trabalho (o quesito foi avaliado em 448 fichas)  
+**Tabela 4.** Qualidade relativa do trabalho (o quesito foi avaliado em 448 fichas)  
 
-|                        | Mestrado| Doutorado| Total| 
+|                        | Mestrado| Doutorado| Total|
 |:-----------------------|--------:|---------:|-----:|
-|Abaixo dos 50% melhores |       22|        14|    36| 
-|Entre os 50% melhores   |      107|        41|   148| 
-|Entre os 25% melhores   |      105|        40|   145| 
-|Entre os 10% melhores   |       87|        32|   119|
+|Abaixo dos 50% melhores |        3|         5|     8|
+|Entre os 50% melhores   |       25|        17|    42|
+|Entre os 25% melhores   |       23|        20|    43|
+|Entre os 10% melhores   |       17|        38|    55|
 
 
 ![plot da QualiRelME](images/qualME.png)  
@@ -82,9 +84,6 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 
 ![plot da QualiRelDO](images/qualDO.png) 
 **Figura 5.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
-
-
-Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 10% melhores considerando o conjunto de dissertações e teses que já haviam avaliado e orientado, o que mostra a qualidade dos trabalhos defendidos nos programas do IB. Outras avaliações consideraram que o trabalho estava entre os 25% melhores (145 avaliações, 32%) ou entre os 50% melhores (148 avaliações, 33%). Apenas 36 avaliações (8%) julgaram que o trabalho estava abaixo dos 50% melhores. 
 
 ### Evolução da Qualidade relativa - Mestrado
 
@@ -98,29 +97,24 @@ Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 1
 
 ## Impacto potencial
  
-Os avaliadores também responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (380 avaliações, 59%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 228 (35%) em periódico de impacto médio e 27 (4%) em periódico de impacto baixo. Apenas 11 avaliações (2%) indicavam que havia baixa chance de publicação do trabalho. 
-
-**Tabela 4.** Impacto potencial do trabalho (o quesito foi avaliado em 646 fichas)  
+**Tabela 5.** Impacto potencial do trabalho (o quesito foi avaliado em 148 fichas)  
 
 |           | Mestrado| Doutorado| Sum|
 |:----------|--------:|---------:|---:|
-|nao public |        8|         3|  11|
-|baixo      |       16|        11|  27|
-|medio      |      150|        78| 228|
-|alto       |      143|       237| 380|
-|Sum        |      317|       329| 646|
+|nao public |        3|         2|   5|
+|baixo      |        0|         2|   2|
+|medio      |       31|        16|  47|
+|alto       |       33|        61|  94|
+|Sum        |       67|        81| 148|
 
 
 ![plot impacto](images/impacto.png)  
 **Figura 8.** Proporção de teses e dissertações defendidas entre 2021 e 2024, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
 
-![plot impacto por programa](images/impactoProg.png)  
-**Figura 9.** Proporção de teses e dissertações defendidas entre 2021 e 2024 em cada programa, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
-
-![plot evol impacto por programa ME](images/impactoEvolME.png)  
+![plot evol impacto ME](images/impactoEvolME.png)  
 **Figura 10.** Evolução da proporção de teses defendidas entre 2017 e 2024 em cada classe de impacto. 
 
-![plot evol impacto por programa DO](images/impactoEvolDO.png)  
+![plot evol impacto DO](images/impactoEvolDO.png)  
 **Figura 11.** Evolução da proporção de dissertações defendidas entre 2017 e 2024 em cada classe de impacto. 
 
 
