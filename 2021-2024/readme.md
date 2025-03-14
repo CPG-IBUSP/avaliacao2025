@@ -52,7 +52,7 @@ No quadriênio, tivemos 140 teses e 162 dissertações defendidas. Destas, 133 t
 - A discussão é sólida e fortemente alicerçada nos resultados obtidos: 415 avaliações (62,9%)
  - A literatura citada é adequada e atualizada: 486 avaliações (73,3%)
 
-Os trabalhos de conclusão de curso defendidos no programa foram considerados muito bons ou excelentes nesses quesitos pela maioria dos avaliadores. Consideramos que os trabalhos defendidos tiveram qualidade muito boa e essa avaliação nos permite diagnosticar pontos que podemos contribuir na preparação dos trabalhos. Por exemplo, o quesito que foi considerado muito bom ou excelente pelo menor número de avaliadores (61,8%) foi a discussão sólida e alicerçada nos resultados obtidos. Isso pode nos ajudar a planejar iniciativas (disciplinas ou instruções) para melhorar a qualidade das futuras teses e dissertações. 
+Os trabalhos de conclusão de curso defendidos no programa foram considerados muito bons ou excelentes nesses quesitos pela maioria dos avaliadores. Consideramos que os trabalhos defendidos tiveram qualidade muito boa e essa avaliação nos permite diagnosticar pontos que podemos contribuir na preparação dos trabalhos. Por exemplo, o quesito que foi considerado muito bom ou excelente pelo menor número de avaliadores (62,9%) foi a discussão sólida e alicerçada nos resultados obtidos. Isso pode nos ajudar a planejar iniciativas (disciplinas ou instruções) para melhorar a qualidade das futuras teses e dissertações. 
  
 A avaliação anônima feita pelos participantes das bancas de defesa, que indicaram a qualidade do trabalho relativa a todos que já orientou ou avaliou, entre quatro classes:
 
@@ -62,16 +62,16 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 - Entre os 10% melhores
 
 
-**Tabela 3.** Qualidade relativa do trabalho (o quesito foi avaliado em 1769 fichas)
+**Tabela 3.** Qualidade relativa do trabalho (o quesito foi avaliado em 448 fichas)
 |                        | Mestrado| Doutorado| Total| 
 |:-----------------------|--------:|---------:|-----:|
-|Abaixo dos 50% melhores |       40|        52|    92| 
-|Entre os 50% melhores   |      275|       243|   518| 
-|Entre os 25% melhores   |      247|       249|   496| 
-|Entre os 10% melhores   |      245|       418|   663|
+|Abaixo dos 50% melhores |       22|        14|    36| 
+|Entre os 50% melhores   |      107|        41|   148| 
+|Entre os 25% melhores   |      105|        40|   145| 
+|Entre os 10% melhores   |       87|        32|   119|
 
 
-
+![plot da QualiRelM](2021-2024/images/qualME.png)
 **Figura 1.** Qualidade relativa - Mestrado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
 
 **Figura 2.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
