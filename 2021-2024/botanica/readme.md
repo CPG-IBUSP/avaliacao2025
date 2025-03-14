@@ -69,7 +69,7 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 - Entre os 10% melhores
 
 
-**Tabela 4.** Qualidade relativa do trabalho (o quesito foi avaliado em 448 fichas)  
+**Tabela 4.** Qualidade relativa do trabalho (o quesito foi avaliado em 148 fichas)  
 
 |                        | Mestrado| Doutorado| Total|
 |:-----------------------|--------:|---------:|-----:|
