@@ -67,6 +67,9 @@ Além da análise individual de cada critério, foi realizada também a soma dos
 ![distribuicao notas](images/notasBox.png)  
 **Figura 2.** Evolução das notas calculadas por indicações de teses/dissertações como excelentes ou muito boas nos últimos dois quadriênios (entre 2017 e 2024).
 
+![notas por programa](images/notasProg.png)  
+**Figura 3.** Notas calculadas por indicações de teses/dissertações como excelentes ou muito boas por programa. As curvas são kernels de densidade probabilística.
+
 
 ## Qualidade relativa
 
@@ -88,10 +91,10 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 
 
 ![plot da QualiRelME](images/qualME.png)  
-**Figura 3.** Qualidade relativa - Mestrado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
+**Figura 4.** Qualidade relativa - Mestrado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
 
 ![plot da QualiRelDO](images/qualDO.png) 
-**Figura 4.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
+**Figura 5.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
 
 
 Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 10% melhores considerando o conjunto de dissertações e teses que já haviam avaliado e orientado, o que mostra a qualidade dos trabalhos defendidos nos programas do IB. Outras avaliações consideraram que o trabalho estava entre os 25% melhores (145 avaliações, 32%) ou entre os 50% melhores (148 avaliações, 33%). Apenas 36 avaliações (8%) julgaram que o trabalho estava abaixo dos 50% melhores. 
@@ -99,12 +102,12 @@ Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 1
 ### Evolução da Qualidade relativa - Mestrado
 
 ![plot evolME](images/evolQualiME.png)  
-**Figura 5.** Evolução da qualidade relativa - Mestrado. Evolução da proporção de teses/dissertações defendidas nos dois últimos quadriênios (entre 2017 e 2024) em cada classe de qualidade. 
+**Figura 6.** Evolução da qualidade relativa - Mestrado. Evolução da proporção de teses/dissertações defendidas nos dois últimos quadriênios (entre 2017 e 2024) em cada classe de qualidade. 
 
 ### Evolução da Qualidade relativa - Doutorado  
 
 ![plot evolDO](images/evolQualiDO.png)  
-**Figura 6.** Evolução da qualidade relativa - Mestrado. Evolução da proporção de teses/dissertações defendidas nos dois últimos quadriênios (entre 2017 e 2024) em cada classe de qualidade. 
+**Figura 7.** Evolução da qualidade relativa - Mestrado. Evolução da proporção de teses/dissertações defendidas nos dois últimos quadriênios (entre 2017 e 2024) em cada classe de qualidade. 
 
 ## Impacto potencial
  
@@ -121,16 +124,16 @@ Os avaliadores também responderam sobre possíveis artigos decorrentes da disse
 
 
 ![plot impacto](images/impacto.png)  
-**Figura 7.** Proporção de teses e dissertações defendidas entre 2021 e 2024, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
+**Figura 8.** Proporção de teses e dissertações defendidas entre 2021 e 2024, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
 
 ![plot impacto por programa](images/impactoProg.png)  
-**Figura 8.** Proporção de teses e dissertações defendidas entre 2021 e 2024 em cada programa, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
+**Figura 9.** Proporção de teses e dissertações defendidas entre 2021 e 2024 em cada programa, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
 
 ![plot evol impacto por programa ME](images/impactoEvolME.png)  
-**Figura 9.** Evolução da proporção de teses defendidas entre 2017 e 2024 em cada classe de impacto. 
+**Figura 10.** Evolução da proporção de teses defendidas entre 2017 e 2024 em cada classe de impacto. 
 
 ![plot evol impacto por programa DO](images/impactoEvolDO.png)  
-**Figura 10.** Evolução da proporção de dissertações defendidas entre 2017 e 2024 em cada classe de impacto. 
+**Figura 11.** Evolução da proporção de dissertações defendidas entre 2017 e 2024 em cada classe de impacto. 
 
 
 ## Comentários
