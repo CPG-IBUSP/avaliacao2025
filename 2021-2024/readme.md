@@ -39,18 +39,18 @@ Foram consideradas apenas as fichas das defesas ocorridas no último quadriênio
 |Todos cursos     | 150| 140| 125| 117| 128| 660|
 
  
-No quadriênio, tivemos 140 teses e 162 dissertações defendidas. Destas, 133 teses e 143 dissertações tiveram pelo menos uma ficha de avaliação entregue por membros da banca. Foram analisadas 1806 fichas no total (entre uma e quatro por trabalho de conclusão). Os avaliadores foram perguntados sobre 10 quesitos e foram orientados a indicar quais dos quesitos o trabalho satisfazia de maneira muito boa ou excelente. Os quesitos estão indicados abaixo, com o número de avaliações que julgaram o trabalho com muito bom ou excelente:
+No quadriênio, tivemos 140 teses e 162 dissertações defendidas. Destas, 133 teses e 143 dissertações tiveram pelo menos uma ficha de avaliação entregue por membros da banca. Foram analisadas 606 fichas no total (entre uma e quatro por trabalho de conclusão). Os avaliadores foram perguntados sobre 10 quesitos e foram orientados a indicar quais dos quesitos o trabalho satisfazia de maneira muito boa ou excelente. Os quesitos estão indicados abaixo, com o número de avaliações que julgaram o trabalho com muito bom ou excelente:
  
-- O texto é claro, conciso e com boa qualidade quanto a ortografia e gramática: 1365 avaliações (75,6%)
-- O trabalho é bem contextualizado teoricamente: 1478 avaliações (81,8%)
-- Os objetivos são bem definidos e condizentes com o título pleiteado: 1442 avaliações (79,8%)
-- As perguntas e/ou hipóteses são claras e explicitamente apresentadas no texto: 1268 avaliações (70,2%)
-- A ideia é original e traz uma contribuição teórica e/ou empírica relevante: 1513 avaliações (83,8%)
-- Os métodos são bem descritos e adequados para responder à(s) pergunta(s): 1280 avaliações (70,9%)
-- As análises são bem descritas e adequadas para responder à(s) pergunta(s): 1228 avaliações (68,0%)
-- Os resultados são bem apresentados e respondem à(s) pergunta(s): 1301 avaliações (72,0%)
-- A discussão é sólida e fortemente alicerçada nos resultados obtidos: 1116 avaliações (61,8%)
- - A literatura citada é adequada e atualizada: 1371 avaliações (75,9%)
+- O texto é claro, conciso e com boa qualidade quanto a ortografia e gramática: 530 avaliações (80,3%)
+- O trabalho é bem contextualizado teoricamente: 537 avaliações (81,4%)
+- Os objetivos são bem definidos e condizentes com o título pleiteado: 532 avaliações (80,6%)
+- As perguntas e/ou hipóteses são claras e explicitamente apresentadas no texto: 487 avaliações (73,8%)
+- A ideia é original e traz uma contribuição teórica e/ou empírica relevante: 565 avaliações (85,6%)
+- Os métodos são bem descritos e adequados para responder à(s) pergunta(s): 486 avaliações (73,6%)
+- As análises são bem descritas e adequadas para responder à(s) pergunta(s): 463 avaliações (70,2%)
+- Os resultados são bem apresentados e respondem à(s) pergunta(s): 498 avaliações (75,4%)
+- A discussão é sólida e fortemente alicerçada nos resultados obtidos: 415 avaliações (62,9%)
+ - A literatura citada é adequada e atualizada: 486 avaliações (73,3%)
 
 Os trabalhos de conclusão de curso defendidos no programa foram considerados muito bons ou excelentes nesses quesitos pela maioria dos avaliadores. Consideramos que os trabalhos defendidos tiveram qualidade muito boa e essa avaliação nos permite diagnosticar pontos que podemos contribuir na preparação dos trabalhos. Por exemplo, o quesito que foi considerado muito bom ou excelente pelo menor número de avaliadores (61,8%) foi a discussão sólida e alicerçada nos resultados obtidos. Isso pode nos ajudar a planejar iniciativas (disciplinas ou instruções) para melhorar a qualidade das futuras teses e dissertações. 
  
