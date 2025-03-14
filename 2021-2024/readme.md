@@ -143,5 +143,5 @@ Por fim, no campo para comentários, 33 fichas contém observações, a maioria 
 
 ## Outras comparações
 
-
-
+### Notas médias por programa
+![notas por programa](images/notasMediaProg.png) 
