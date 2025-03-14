@@ -31,7 +31,8 @@ Foram consideradas apenas as fichas das defesas ocorridas no último quadriênio
 |Doutorado direto |   4|   0|   2|   3|   1|  10|
 |Todos cursos     |  61|  57|  54|  54|  50| 276|
 
-**Tabela 2.** Número de fichas 
+**Tabela 2.** Número de fichas  
+
 |                 | Bot| Eco| Fis| Gen| Zoo|  IB|
 |:----------------|---:|---:|---:|---:|---:|---:|
 |Mestrado         |  68|  72|  71|  63|  51| 325|
@@ -82,7 +83,8 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 - Entre os 10% melhores
 
 
-**Tabela 3.** Qualidade relativa do trabalho (o quesito foi avaliado em 448 fichas)
+**Tabela 3.** Qualidade relativa do trabalho (o quesito foi avaliado em 448 fichas)  
+
 |                        | Mestrado| Doutorado| Total| 
 |:-----------------------|--------:|---------:|-----:|
 |Abaixo dos 50% melhores |       22|        14|    36| 
@@ -114,7 +116,8 @@ Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 1
  
 Os avaliadores também responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (380 avaliações, 59%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 228 (35%) em periódico de impacto médio e 27 (4%) em periódico de impacto baixo. Apenas 11 avaliações (2%) indicavam que havia baixa chance de publicação do trabalho. 
 
-**Tabela 4.** Impacto potencial do trabalho (o quesito foi avaliado em 646 fichas)
+**Tabela 4.** Impacto potencial do trabalho (o quesito foi avaliado em 646 fichas)  
+
 |           | Mestrado| Doutorado| Sum|
 |:----------|--------:|---------:|---:|
 |nao public |        8|         3|  11|
