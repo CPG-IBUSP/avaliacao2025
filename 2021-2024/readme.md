@@ -78,9 +78,19 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 **Figura 2.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
 
 
-A maioria dos membros das bancas (38%) consideraram que o trabalho estava entre os 10% melhores considerando o conjunto de dissertações e teses que já haviam avaliado e orientado, o que mostra a qualidade dos trabalhos defendidos nos programas do IB. Outras avaliações consideraram que o trabalho estava entre os 25% melhores (496 avaliações, 28%) ou entre os 50% melhores (55 avaliações, 29%). Apenas 92 avaliações (5%) julgaram que o trabalho estava abaixo dos 50% melhores. 
+Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 10% melhores considerando o conjunto de dissertações e teses que já haviam avaliado e orientado, o que mostra a qualidade dos trabalhos defendidos nos programas do IB. Outras avaliações consideraram que o trabalho estava entre os 25% melhores (145 avaliações, 32%) ou entre os 50% melhores (148 avaliações, 33%). Apenas 36 avaliações (8%) julgaram que o trabalho estava abaixo dos 50% melhores. 
+
+# Evolução da Qualidade relativa - Mestrado
+
+![plot evolME](images/evolQualiME.png)  
+**Figura 3.** Evolução da qualidade relativa - Mestrado. Evolução da proporção de teses/dissertações defendidas nos dois últimos quadriênios (entre 2017 e 2024) em cada classe de qualidade. 
+
+# Evolução da Qualidade relativa - Doutorado  
+
+![plot evolDO](images/evolQualiDO.png)  
+**Figura 4.** Evolução da qualidade relativa - Mestrado. Evolução da proporção de teses/dissertações defendidas nos dois últimos quadriênios (entre 2017 e 2024) em cada classe de qualidade. 
  
-Os avaliadores responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (91 avaliações, 48%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 80 (42%) em periódico de impacto médio e 5 (3%) em periódico de impacto baixo. Apenas seis avaliações (3%) indicavam que havia baixa chance de publicação do trabalho. Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
+Os avaliadores também responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (91 avaliações, 48%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 80 (42%) em periódico de impacto médio e 5 (3%) em periódico de impacto baixo. Apenas seis avaliações (3%) indicavam que havia baixa chance de publicação do trabalho. Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
 
 
 
