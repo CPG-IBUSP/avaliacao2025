@@ -116,6 +116,11 @@ Os avaliadores também responderam sobre possíveis artigos decorrentes da disse
 ![plot impacto por programa](images/impactoProg.png)  
 **Figura 6.** Proporção de teses e dissertações defendidas entre 2021 e 2024 em cada programa, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
 
+![plot evol impacto por programa ME](images/impactoEvolME.png)  
+**Figura 7.** Evolução da proporção de teses defendidas entre 2017 e 2024 em cada classe de impacto. 
+
+![plot evol impacto por programa DO](images/impactoEvolDO.png)  
+**Figura 8.** Evolução da proporção de dissertações defendidas entre 2017 e 2024 em cada classe de impacto. 
 
 
 ## Comentários
