@@ -98,7 +98,16 @@ Muitos membros das bancas (27%) consideraram que os trabalhos estavam entre os 1
 
 ## Impacto potencial
  
-Os avaliadores também responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (91 avaliações, 48%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 80 (42%) em periódico de impacto médio e 5 (3%) em periódico de impacto baixo. Apenas seis avaliações (3%) indicavam que havia baixa chance de publicação do trabalho. Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
+Os avaliadores também responderam sobre possíveis artigos decorrentes da dissertação ou tese. A maioria deles (91 avaliações, 48%) julgou que pelo menos um artigo derivado do trabalho avaliado poderia ser publicado em periódico de alto fator de impacto em sua área, 80 (42%) em periódico de impacto médio e 5 (3%) em periódico de impacto baixo. Apenas seis avaliações (3%) indicavam que havia baixa chance de publicação do trabalho. 
+
+
+
+![plot impacto](images/impacto.png)  
+**Figura 5.** Proporção de teses e dissertações defendidas entre 2021 e 2024, por classe de impacto. Os participantes das bancas de defesa indicaram o impacto potencial da melhor publicação resultante da tese/dissertação, entre quatro classes: (i) há baixa chance de publicação; (ii) impacto baixo; (iii) impacto médio; (iv) impacto alto.
+
+
+
+Por fim, no campo para comentários, 33 fichas contém observações, a maioria delas (25) elogiosas, destacando a qualidade da tese. Todas as observações foram transcritas e constam no documento "Anexo 6: Resultados da Avaliação". 
 
 
 
