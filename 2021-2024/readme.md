@@ -58,7 +58,7 @@ Os avaliadores foram perguntados sobre 10 quesitos e foram orientados a indicar 
 
 Os trabalhos de conclusão de curso defendidos no programa foram considerados muito bons ou excelentes nesses quesitos pela maioria dos avaliadores. Consideramos que os trabalhos defendidos tiveram qualidade muito boa e essa avaliação nos permite diagnosticar pontos que podemos contribuir na preparação dos trabalhos. Por exemplo, o quesito que foi considerado muito bom ou excelente pelo menor número de avaliadores (62,9%) foi a discussão sólida e alicerçada nos resultados obtidos. Isso pode nos ajudar a planejar iniciativas (disciplinas ou instruções) para melhorar a qualidade das futuras teses e dissertações. 
 
-Além da análise individual de cada critério, foi realizada também a soma dos aspectos em que a tese/dissertação foi descrita como excelente ou muito boa. As notas de cada tese são as somas do número de indicações por tese/dissertação. 
+Além da análise individual de cada critério, foi realizada também a soma dos aspectos em que a tese/dissertação foi descrita como excelente ou muito boa. As notas de cada tese são as somas do número de indicações por tese/dissertação. Dentre as fichas avaliadas, a média calculada para o curso de Mestrado foi 7.3. (mediana = 8) Doutorado foi 7,8 (mediana = 9).
 
 
 ![notas](images/notas.png)  
