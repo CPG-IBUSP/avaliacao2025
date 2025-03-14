@@ -74,6 +74,7 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 ![plot da QualiRelME](images/qualME.png)  
 **Figura 1.** Qualidade relativa - Mestrado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
 
+![plot da QualiRelDO](images/qualDO.png) 
 **Figura 2.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
 
 
