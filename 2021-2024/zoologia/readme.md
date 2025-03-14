@@ -8,21 +8,21 @@ Foram consideradas apenas as fichas das defesas ocorridas no último quadriênio
 
 **Tabela 1.** Número de trabalhos com ao menos uma ficha preenchida  
 
-|                 | Eco|  IB|
+|                 | Zoo|  IB|
 |:----------------|---:|---:|
-|Mestrado         |  30| 143|
-|Doutorado        |  28| 123|
-|Doutorado direto |   0|  10|
-|Todos cursos     |  58| 276|
+|Mestrado         |  26| 143|
+|Doutorado        |  24| 123|
+|Doutorado direto |   1|  10|
+|Todos cursos     |  51| 276|
 
 **Tabela 2.** Número de fichas  
 
-|                 | Eco|  IB|
+|                 | Zoo|  IB|
 |:----------------|---:|---:|
-|Mestrado         |  72| 325|
-|Doutorado        |  68| 313|
-|Doutorado direto |   0|  22|
-|Todos cursos     | 140| 660|
+|Mestrado         |  51| 325|
+|Doutorado        |  73| 313|
+|Doutorado direto |   4|  22|
+|Todos cursos     | 128| 660|
  
 
 ## Indicadores
@@ -33,20 +33,20 @@ Os avaliadores foram perguntados sobre 10 quesitos e foram orientados a indicar 
    
 |criterios                                                                          | frequencia| porcentagem|
 |:----------------------------------------------------------------------------------|----------:|-----------:|
-|Excelencia na redacao                                                              |        117|       83.57|
-|Excelencia na contextualizacao teorica                                             |        101|       72.14|
-|Excelencia nos objetivos: bem definidos e condizentes com o titulo pleiteado       |        108|       77.14|
-|Excelencia nas hipoteses: perguntas e/ou hipoteses sao claras e explicitas         |         98|       70.00|
-|Excelencia na originalidade e na relevancia do trabalho                            |        121|       86.43|
-|Excelencia nos metodos: bem descritos e adequados para responder a(s) pergunta(s)  |         91|       65.00|
-|Excelencia nas analises: bem descritas e adequadas para responder a(s) pergunta(s) |         89|       63.57|
-|Excelencia nos resultados: bem apresentados e respondem a(s) pergunta(s).          |         98|       70.00|
-|Excelencia na discussao: solida e fortemente alicercada nos resultados obtidos.    |         83|       59.29|
-|Excelencia na literatura usada: adequada e atualizada                              |         93|       66.43|
+|Excelencia na redacao                                                              |        100|       78.12|
+|Excelencia na contextualizacao teorica                                             |        107|       83.59|
+|Excelencia nos objetivos: bem definidos e condizentes com o titulo pleiteado       |        103|       80.47|
+|Excelencia nas hipoteses: perguntas e/ou hipoteses sao claras e explicitas         |         96|       75.00|
+|Excelencia na originalidade e na relevancia do trabalho                            |        110|       85.94|
+|Excelencia nos metodos: bem descritos e adequados para responder a(s) pergunta(s)  |        106|       82.81|
+|Excelencia nas analises: bem descritas e adequadas para responder a(s) pergunta(s) |         93|       72.66|
+|Excelencia nos resultados: bem apresentados e respondem a(s) pergunta(s).          |         99|       77.34|
+|Excelencia na discussao: solida e fortemente alicercada nos resultados obtidos.    |         86|       67.19|
+|Excelencia na literatura usada: adequada e atualizada                              |        112|       87.50|
 
 
 ## Notas
-Além da análise individual de cada critério, foi realizada também a soma dos aspectos em que a tese/dissertação foi descrita como excelente ou muito boa. As notas de cada tese são as somas do número de indicações por tese/dissertação. Dentre as fichas avaliadas, a média calculada para o curso de Mestrado foi 6.8. (mediana = 7) Doutorado foi 7,4 (mediana = 9).
+Além da análise individual de cada critério, foi realizada também a soma dos aspectos em que a tese/dissertação foi descrita como excelente ou muito boa. As notas de cada tese são as somas do número de indicações por tese/dissertação. Dentre as fichas avaliadas, a média calculada para o curso de Mestrado foi 7.3 (mediana = 8) Doutorado foi 8,3 (mediana = 10).
 
 
 ![notas](images/notas.png)  
@@ -69,14 +69,14 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 - Entre os 10% melhores
 
 
-**Tabela 4.** Qualidade relativa do trabalho (o quesito foi avaliado em 137 fichas)  
+**Tabela 4.** Qualidade relativa do trabalho (o quesito foi avaliado em 127 fichas)  
 
 |                        | Mestrado| Doutorado| Total|
 |:-----------------------|--------:|---------:|-----:|
-|Abaixo dos 50% melhores |        2|         4|     6|
-|Entre os 50% melhores   |       24|        10|    34|
-|Entre os 25% melhores   |       22|        26|    48|
-|Entre os 10% melhores   |       23|        26|    49|
+|Abaixo dos 50% melhores |        5|         5|    10|
+|Entre os 50% melhores   |       19|        16|    35|
+|Entre os 25% melhores   |       14|        19|    33|
+|Entre os 10% melhores   |       13|        36|    49|
 
 
 ![plot da QualiRelME](images/qualME.png)  
@@ -97,15 +97,15 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 
 ## Impacto potencial
  
-**Tabela 5.** Impacto potencial do trabalho (o quesito foi avaliado em 134 fichas)  
+**Tabela 5.** Impacto potencial do trabalho (o quesito foi avaliado em 127 fichas)  
 
 |           | Mestrado| Doutorado| Sum|
 |:----------|--------:|---------:|---:|
-|nao public |        2|         2|   4|
-|baixo      |       33|        10|  43|
-|medio      |       35|        52|  87|
-|alto       |        0|         0|   0|
-|Sum        |       70|        64| 134|
+|nao public |        3|         1|   4|
+|baixo      |        3|         1|   4|
+|medio      |       23|        17|  40|
+|alto       |       21|        58|  79|
+|Sum        |       50|        77| 127|
 
 
 ![plot impacto](images/impacto.png)  
