@@ -6,7 +6,7 @@ Pode ser parte de de dois da proposta:
 - "Os processos, procedimentos e resultados da autoavaliação do Programa, com foco na formação discente e produção intelectual"
 - "Qualidade e adequação das teses, dissertações ou equivalente em relação às áreas de concentração e linhas de pesquisa do Programa"
 
-Por iniciativa da Comissão de Pós-Graduação do Instituto de Biociências da USP, foi preparada uma ficha de avaliação para fins de acompanhamento interno exclusivamente. A ficha é entregue a todos os membros das bancas de defesa de Tese ou Dissertação dos programas do IB-USP e contém questões sobre a qualidade e potencial do trabalho apresentado. Os membros da banca não se identificam e as fichas não são divulgadas aos candidatos ou orientadores. O questionário contém 11 quesitos que devem ser assinalados pelos membros da banca, apenas se o trabalho apresentado o satisfaz de maneira muito boa ou excelente. O questionário também traz uma questão sobre o enquadramento da dissertação ou tese em extratos, comparando com as teses já avaliadas por eles e uma questão sobre possíveis artigos decorrentes da dissertação ou tese. Por fim, há um campo de texto livre para comentários. A ficha foi incluída na proposta como “Anexo X: Ficha de Avaliação” e os resultados compilados no documento “Anexo Y: Resultados da Avaliação de teses e dissertaçoes”.
+Por iniciativa da Comissão de Pós-Graduação do Instituto de Biociências da USP, foi preparada uma ficha de avaliação para fins de acompanhamento interno exclusivamente. A ficha é entregue a todos os membros das bancas de defesa de Tese ou Dissertação dos programas do IB-USP e contém questões sobre a qualidade e potencial do trabalho apresentado. Os membros da banca não se identificam e as fichas não são divulgadas aos candidatos ou orientadores. O questionário contém 10 quesitos que devem ser assinalados pelos membros da banca, apenas se o trabalho apresentado o satisfaz de maneira muito boa ou excelente. O questionário também traz uma questão sobre o enquadramento da dissertação ou tese em extratos, comparando com as teses já avaliadas por eles e uma questão sobre possíveis artigos decorrentes da dissertação ou tese. Por fim, há um campo de texto livre para comentários. A ficha foi incluída na proposta como “Anexo X: Ficha de Avaliação” e os resultados compilados no documento “Anexo Y: Resultados da Avaliação de teses e dissertaçoes”.
 
 ## Resultados IB 
 
@@ -41,7 +41,7 @@ Foram consideradas apenas as fichas das defesas ocorridas no último quadriênio
 |Todos cursos     | 150| 140| 125| 117| 128| 660|
 
  
-No quadriênio, tivemos 140 teses e 162 dissertações defendidas. Destas, 133 teses e 143 dissertações tiveram pelo menos uma ficha de avaliação entregue por membros da banca. Foram analisadas 606 fichas no total (entre uma e quatro por trabalho de conclusão). 
+No quadriênio, tivemos 140 teses e 162 dissertações defendidas. Destas, 133 teses e 143 dissertações tiveram pelo menos uma ficha de avaliação entregue por membros da banca. Foram analisadas 660 fichas no total (entre uma e quatro por trabalho de conclusão). 
 
 ## Indicadores
 
