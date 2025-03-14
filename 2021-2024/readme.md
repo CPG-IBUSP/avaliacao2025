@@ -71,7 +71,7 @@ A avaliação anônima feita pelos participantes das bancas de defesa, que indic
 |Entre os 10% melhores   |       87|        32|   119|
 
 
-![plot da QualiRelME](2021-2024/images/qualME.png)  
+![plot da QualiRelME](/avaliacao2025/2021-2024/images/qualME.png)  
 **Figura 1.** Qualidade relativa - Mestrado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
 
 **Figura 2.** Qualidade relativa - Doutorado. Também indicado o número esperado em cada categoria se o conjunto avaliado e o já conhecido pela banca forem iguais em qualidade. 
